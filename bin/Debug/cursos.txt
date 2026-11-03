@@ -1,0 +1,10 @@
+C001|Excel Basico|Ofimatica|120.00|20
+C002|Excel Avanzado|Ofimatica|180.00|5
+C003|Programacion C#|Programacion|250.00|0
+C004|Java Basico|Programacion|240.00|12
+C005|Power BI|Analitica|300.00|4
+C006|SQL Server|Base de Datos|280.00|8
+C007|Scrum Fundamentals|Gestion|150.00|15
+C008|Python Basico|Programacion|260.00|2
+C009|Diseño Web|Desarrollo Web|220.00|0
+C010|Testing de Software|Calidad|200.00|10

@@ -1,0 +1,10 @@
+D:\m\semana12\laboratoriosem12\ControlCursos\bin\Debug\ControlCursos.exe.config
+D:\m\semana12\laboratoriosem12\ControlCursos\bin\Debug\ControlCursos.exe
+D:\m\semana12\laboratoriosem12\ControlCursos\bin\Debug\ControlCursos.pdb
+D:\m\semana12\laboratoriosem12\ControlCursos\obj\Debug\ControlCursos.csproj.AssemblyReference.cache
+D:\m\semana12\laboratoriosem12\ControlCursos\obj\Debug\ControlCursos.Form1.resources
+D:\m\semana12\laboratoriosem12\ControlCursos\obj\Debug\ControlCursos.Properties.Resources.resources
+D:\m\semana12\laboratoriosem12\ControlCursos\obj\Debug\ControlCursos.csproj.GenerateResource.cache
+D:\m\semana12\laboratoriosem12\ControlCursos\obj\Debug\ControlCursos.csproj.CoreCompileInputs.cache
+D:\m\semana12\laboratoriosem12\ControlCursos\obj\Debug\ControlCursos.exe
+D:\m\semana12\laboratoriosem12\ControlCursos\obj\Debug\ControlCursos.pdb
